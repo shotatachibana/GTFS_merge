@@ -1,1 +1,1 @@
-GTFSをPythonマージするClaude製スクリプト
+GTFSをPythonでマージするClaude製スクリプト
